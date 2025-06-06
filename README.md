@@ -4,8 +4,7 @@
 <h1 align="center">👋 Hello there! I'm Melisa Sherchan</h1>
 
 🚀 I’m a **Mobile App Developer**  
-💻 Currently building with **Flutter** | Exploring **React**, **.NET (ASP.NET Core)**, and **Swift**  
-📱 Working on a **To-Do Web App** with notes support  
+💻 Currently building with **Flutter** | Exploring **React**, and **Swift**  
 
 ---
 
@@ -13,7 +12,6 @@
 
 - **Mobile:** Flutter, Dart, Swift  
 - **Frontend:** React, HTML/CSS  
-- **Backend:** ASP.NET Core, C#  
 - **Database:** SQL Server, SQLite, Firebase  
 - **Tools:** Git, GitHub, VS Code, Postman  
 
@@ -23,7 +21,6 @@
 
 - React & TypeScript
 - Swift & iOS Development  
-- ASP.NET Core Web API  
 - Clean Architecture in Flutter  
 
 ---
